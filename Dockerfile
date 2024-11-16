@@ -16,6 +16,7 @@ RUN set -eu && \
         7zip \
         wsdd \
         samba \
+        sudo \
         xz-utils \
         wimtools \
         dos2unix \
